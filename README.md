@@ -13,7 +13,7 @@ The main reasons I made this script were:
 
 ### Download and Usage Steps
 1. Download the latest `ace_uninstall.bat` script file from the [Releases Page](https://github.com/anujkoranga2402/ace-anticheat-uninstaller/releases).
-2. Run the `ace_uninstall.bat` file as Administrator. *It cannot work without Administrator permissions.*
+2. Right-click on `ace_uninstall.bat` file and Run as Administrator. *It cannot work without Administrator permissions.*
 3. Follow the displayed options and their descriptions to use according to your needs. 
    - Scan Mode
    - Full Auto Mode
@@ -33,4 +33,4 @@ If you have any trouble with the script, feel free to raise an issue. I'll try a
 > _This means it **COULD** flag similarly-named items that are unrelated to AntiCheatExpert._\
 > \
 > Use `Scan` and `Confirm before Delete` functions to make sure it's finding and deleting the correct files.\
-> I bear no responsibility in case of unintended deletions! Use `Scan` mode first ALWAYS, if unsure.
+> I bear no responsibility in case of unintended deletions! Use `Scan Mode` first ALWAYS, if unsure.
