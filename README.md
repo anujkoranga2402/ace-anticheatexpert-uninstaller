@@ -26,7 +26,7 @@ If you have any trouble with the script, feel free to raise an issue. I'll try a
 > This script should work for all latest (and hopefully future) ACE versions of every kind.
 
 > [!TIP]
-> Use `Scan` Mode first. Then `Confirm before Delete` Mode for best control over what's being deleted.
+> Use `Scan Mode` first. Then `Confirm before Delete Mode` for best control over what's being deleted.
 
 > [!WARNING]
 > This script uses **currently known filename regex** used by Tencent to find ACE installations.\
